@@ -1,1 +1,1 @@
-FROM tdengine/tdengine:3.0.1.4
+FROM emqx:5.0.12
